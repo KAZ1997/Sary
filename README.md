@@ -21,6 +21,7 @@ Run Code: a- open the folder "reservation_system" (inside Sary folder) using PyC
   for employee view
   username: saryemployee
   password: sary123*#
+  
 b- open Cmd 
 1- cd $Path ("reservation_system" (inside Sary folder)) 
 2- "python manage.py makemigrations" 
