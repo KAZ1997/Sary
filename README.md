@@ -1,4 +1,4 @@
-# Sary
+# Sary after test
 Solution for interview task
 
 "Sary" folder contains the source code 
