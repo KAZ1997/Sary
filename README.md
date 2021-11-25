@@ -1,5 +1,5 @@
-# Sary after test
-Solution for interview task
+# Sary
+is a reservation system for resturant tables developed by Django framework
 
 "Sary" folder contains the source code 
 "Diagrams" folder contains all digrams related to the task 
